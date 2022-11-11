@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      uri: 
+      database: Loan
+
+server:
+  port: 8080
+
+
+jwt:
+  secret: secretkey123
+
